@@ -1,9 +1,8 @@
-# SQL
 I'm using __PostgreSQL__ in implementing the solutions.
 
-## Basics
+# Basics
 
-### Creating a Table
+## Creating a Table
 General Idea:
 ```sql
 CREATE TABLE table_name
@@ -28,7 +27,7 @@ Gender varchar(50)
 > [!NOTE]
 > You can read about data types in PostgreSQL [here](https://www.postgresql.org/docs/current/datatype.html).
 
-### Inserting Data
+## Inserting Data
 General Idea:
 ```sql
 INSERT INTO table_name VALUES
@@ -47,7 +46,7 @@ INSERT INTO EmployeeSalary VALUES
 > [!NOTE]
 > You can also view the [related SQL File](sql/create_table_and_insert_data.sql) for more examples on Create Tables and Inserting Data.
 
-### SELECT + FROM
+## SELECT + FROM
 Syntax:
 ```sql
 SELECT * FROM table_name;
@@ -62,7 +61,7 @@ SELECT MIN(column_name) AS column_name from table_name;
 SELECT AVG(column_name) AS column_name from table_name;
 ```
 
-### WHERE Statement
+## WHERE Statement
 
 Syntax:
 ```sql
@@ -86,7 +85,7 @@ Operators:
 | IS NULL | Return true if a value is null |
 | NOT | Negate the result of other operators |
 
-### Group By + Order By
+## Group By + Order By
 Group By Syntax:
 ```sql
 SELECT * FROM table_name GROUP BY column1, column..., columnn;
@@ -110,8 +109,8 @@ ORDER BY CountGender;
 
 > [!NOTE]
 > SQL uses ```ASC``` as default for ```ORDER BY```.
-## Intermediate
-### Inner/Outer Joins
+# Intermediate
+## Inner/Outer Joins
 Syntax:
 ```sql
 SELECT * FROM table_name1
@@ -128,7 +127,7 @@ Types:
 > [!NOTE]
 > You can access columns from both tables when using ```JOIN```.
 
-### Unions
+## Unions
 Syntax:
 ```sql
 SELECT * FROM table_name1
@@ -142,7 +141,7 @@ SELECT * FROM table_name2;
 > [!WARNING]
 > Beware of using ```UNION``` on columns with similar data types. SQL will not be able to catch errors. So, it will lead to misleading rows.
 
-### Case Statement
+## Case Statement
 Use Case Statements if certain conditions return specific values.
 
 Example:
@@ -159,7 +158,7 @@ WHERE Age IS NOT NULL
 ORDER BY Age;
 ```
 
-### Having Clause
+## Having Clause
 Use this after ```GROUP BY```.
 
 Example:
@@ -177,7 +176,7 @@ The statement above returns Job Titles have more than one active personnel.
 > [!NOTE]
 > You can use aggregate functions with ```HAVING```. Read more about aggregate functions [here](https://www.postgresql.org/docs/9.5/functions-aggregate.html).
 
-### Updating/Deleting Data
+## Updating/Deleting Data
 Update Syntax:
 ```sql
 UPDATE table_name
@@ -198,4 +197,7 @@ WHERE condition;
 > [!NOTE]
 > Use ```SELECT``` before running ```DELETE``` to ensure you are deleting the correct record/s. 
 
-## Advanced
+## Aliasing
+
+
+# Advanced
