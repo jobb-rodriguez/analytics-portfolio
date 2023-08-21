@@ -45,7 +45,7 @@ INSERT INTO EmployeeSalary VALUES
 ```
 
 > [!NOTE]
-> You can also view *notes/sql/create_table_and_insert_data.sql* for more examples on Create Tables and Inserting Data.
+> You can also view the [related SQL File](notes/sql/create_table_and_insert_data.sql) for more examples on Create Tables and Inserting Data.
 
 
 > Text that is a quote
