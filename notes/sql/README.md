@@ -92,7 +92,6 @@ Group By Syntax:
 SELECT * FROM table_name GROUP BY field1, field..., fieldn;
 ```
 > [!NOTE]
-> DISTINCT vs GROUP BY
 > ```DISTINCT``` returns the unique values based on the defined column, while ```GROUP BY``` returns the unique values and counts them as a group based on the defined column.
 
 Order By Syntax:
