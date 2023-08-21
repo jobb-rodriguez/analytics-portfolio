@@ -141,4 +141,22 @@ SELECT * FROM table_name2;
 
 > [!WARNING]
 > Beware of using ```UNION``` on columns with similar data types. SQL will not be able to catch errors. So, it will lead to misleading rows.
+
+### Case Statement
+Use Case Statements if certain conditions return specific values.
+
+Example:
+```sql
+SELECT FirstName, LastName, Age
+CASE
+    When Age > 30 THEN 'Old'
+    WHEN Age > 13 THEN 'Teenager'
+    When Age BETWEEN 5 AND 13 THEN 'Toddler'
+    ELSE 'Baby'
+END AS 'Age Label'
+FROM EmployeeDemographics
+WHERE Age IS NOT NULL
+ORDER BY Age;
+```
+
 ## Advanced
