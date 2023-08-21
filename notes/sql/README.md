@@ -200,4 +200,16 @@ WHERE condition;
 ## Aliasing
 You can add an alias to columns and tables by adding ```AS``` after their names. This can help you identify and shoren your queries.
 
+## Partition By
+Allows you to partition a column from the table.
+
+Example:
+```sql
+SELECT FirstName, LastName, Gender, Salary,
+    COUNT(Gender) OVER (PARTITION BY Gender) AS TotalGender
+FROM EmployeeDemographics dem
+JOIN EmployeeSalary sal
+ON dem.EmployeeID = sal.EmployeeID
+```
+
 # Advanced
