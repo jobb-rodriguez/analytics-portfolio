@@ -1,6 +1,6 @@
 # SQL
 
-## Introduction
+## Basics
 I'm using __PostgreSQL__ in implementing the solutions.
 
 ### Creating a Table
@@ -47,14 +47,22 @@ INSERT INTO EmployeeSalary VALUES
 > [!NOTE]
 > You can also view the [related SQL File](sql/create_table_and_insert_data.sql) for more examples on Create Tables and Inserting Data.
 
+### Select + From
+Syntax:
+```sql
+SELECT * FROM table_name;
+SELECT TOP 5 * FROM table_name;
+SELECT field1, field..., fieldn FROM table_name;
 
-> Text that is a quote
+SELECT DISTINCT(field_name) FROM table_name;
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+SELECT COUNT(field_name) AS column_name from table_name;
+SELECT MAX(field_name) AS column_name from table_name;
+SELECT MIN(field_name) AS column_name from table_name;
+SELECT AVG(field_name) AS column_name from table_name;
+```
 
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+## Intermediate
 
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+
+## Advanced
