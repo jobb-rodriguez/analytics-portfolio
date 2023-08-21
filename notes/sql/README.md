@@ -80,9 +80,9 @@ Operators:
 | <> or != | Not equal to |
 | AND | Logical Operator AND |
 | OR | Logical Operator OR |
-| IN | Return true if a value matches any value in a list |
+| IN | Return true if a value matches any value in a list (or tuples) |
 | BETWEEN | Return true if a value is between a range of values |
-| LIKE | Return true if a value matches a pattern |
+| LIKE | Return true if a value matches a pattern. Read more [here](https://www.postgresql.org/docs/current/functions-matching.html) |
 | IS NULL | Return true if a value is null |
 | NOT | Negate the result of other operators |
 
