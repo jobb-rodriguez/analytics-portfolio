@@ -228,3 +228,20 @@ SELECT * FROM custom_table_name;
 
 > [!NOTE]
 > The ```custom_table_name``` only works one query after its declaration.
+
+## Temp Tables
+For PostgreSQL, here's the syntax:
+```sql
+CREATE TEMPORARY TABLE table_name(
+    column_name data_type
+);
+```
+
+Temporary tables are useful for not repeatedly running join queries.
+
+
+> [!NOTE]
+> View the [related SQL File](sql/temp_tables.sql) for more examples on Create Tables and Inserting Data. Read more about tables [here](https://www.postgresql.org/docs/current/sql-createtable.html).
+
+> [!IMPORTANT]
+> Run ```DROP TABLE IF EXISTS temp_table_name``` before creating a temporary table to avoid errors.
