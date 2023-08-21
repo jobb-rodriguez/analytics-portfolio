@@ -198,6 +198,6 @@ WHERE condition;
 > Use ```SELECT``` before running ```DELETE``` to ensure you are deleting the correct record/s. 
 
 ## Aliasing
-
+You can add an alias to columns and tables. This can help you identify and shoren your queries.
 
 # Advanced
