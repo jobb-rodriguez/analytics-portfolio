@@ -86,6 +86,31 @@ Operators:
 | IS NULL | Return true if a value is null |
 | NOT | Negate the result of other operators |
 
+### Group By + Order By
+Group By Syntax:
+```sql
+SELECT * FROM table_name GROUP BY field1, field..., fieldn;
+```
+> [!NOTE]
+> DISTINCT vs GROUP BY
+> ```DISTINCT``` returns the unique values based on the defined column, while ```GROUP BY``` returns the unique values and counts them as a group based on the defined column.
+
+Order By Syntax:
+```sql
+SELECT * FROM table_name ORDER BY field1 [ASC | DESC], field... [ASC | DESC], fieldn [ASC | DESC];
+```
+
+Example:
+```sql
+SELECT Gender, COUNT(Gender) AS CountGender
+FROM EmployeeDemographics
+WHERE Age > 31
+GROUP BY Gender
+ORDER BY CountGender;
+```
+
+> [!NOTE]
+> SQL uses ```ASC``` as default for ```ORDER BY```.
 ## Intermediate
 
 
