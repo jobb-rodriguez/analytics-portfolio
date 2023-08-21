@@ -177,4 +177,22 @@ The statement above returns Job Titles have more than one active personnel.
 > [!NOTE]
 > You can use aggregate functions with ```HAVING```. Read more about aggregate functions [here](https://www.postgresql.org/docs/9.5/functions-aggregate.html).
 
+### Updating/Deleting Data
+Update Syntax:
+```sql
+UPDATE table_name
+SET column1 = value1, column... = value..., columnn = valuen
+WHERE condition;
+```
+
+Delete Syntax:
+```sql
+DELETE 
+FROM table_name
+WHERE condition;
+```
+
+> [!WARNING]
+> Deleting a record is irreversible unless you have a ```ROLLBACK```. It is not possible with ```TRUNCATE``` and ```DROP```. Use ```SELECT``` before running ```DELETE``` to ensure you are deleting the correct record/s. 
+
 ## Advanced
