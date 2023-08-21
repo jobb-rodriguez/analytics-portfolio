@@ -159,4 +159,22 @@ WHERE Age IS NOT NULL
 ORDER BY Age;
 ```
 
+### Having Clause
+Use this after ```GROUP BY```.
+
+Example:
+```sql
+SELECT JobTitle, COUNT(JobTitle)
+FROM EmployeeDemographics
+JOIN EmployeeSalary
+ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
+GROUP BY JobTitle
+HAVING COUNT(JobTitle) > 1
+```
+
+The statement above returns Job Titles have more than one active personnel.
+
+> [!NOTE]
+> You can use aggregate functions with ```HAVING```. Read more about aggregate functions [here](https://www.postgresql.org/docs/9.5/functions-aggregate.html).
+
 ## Advanced
