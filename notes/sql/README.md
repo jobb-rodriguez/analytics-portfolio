@@ -261,3 +261,23 @@ Temporary tables are useful for not repeatedly running join queries.
 
 > [!NOTE]
 > You can also use substrings for Fuzzy Matching. Read more [here](https://www.amygb.ai/blog/how-does-fuzzy-matching-work). In application, use multiple columns to reduce risk of error.
+
+## Stored Procedures + Use Cases
+Stored Procedures work over a network. So, any changes done to the procedure is accessible by other users.
+
+Syntax:
+```sql
+CREATE [or replace] PROCEDURE procedure_name(parameter_list)
+LANGUAGE plpgsql
+AS $$
+DECLARE
+-- variable declaration
+BEGIN
+-- stored procedure body
+END;$$
+
+CALL procedure_name;
+```
+
+> [!NOTE]
+> You can view an example of Stored Procedure in PostgreSQL [here](https://www.postgresqltutorial.com/postgresql-plpgsql/postgresql-create-procedure/). You can also view how it's used in Microsft Server SQL [here](sql/stored_procedures.sql).
