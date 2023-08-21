@@ -1,7 +1,7 @@
 # SQL
+I'm using __PostgreSQL__ in implementing the solutions.
 
 ## Basics
-I'm using __PostgreSQL__ in implementing the solutions.
 
 ### Creating a Table
 General Idea:
@@ -31,10 +31,10 @@ Gender varchar(50)
 ### Inserting Data
 General Idea:
 ```sql
-    INSERT INTO table_name VALUES
-    (field1, field2, field3),
-    ...
-    (field1, field2, field3)
+INSERT INTO table_name VALUES
+(field1, field2, field3),
+...
+(field1, field2, field3)
 ```
 
 ```sql
@@ -47,7 +47,7 @@ INSERT INTO EmployeeSalary VALUES
 > [!NOTE]
 > You can also view the [related SQL File](sql/create_table_and_insert_data.sql) for more examples on Create Tables and Inserting Data.
 
-### Select + From
+### SELECT + FROM
 Syntax:
 ```sql
 SELECT * FROM table_name;
@@ -61,6 +61,30 @@ SELECT MAX(field_name) AS column_name from table_name;
 SELECT MIN(field_name) AS column_name from table_name;
 SELECT AVG(field_name) AS column_name from table_name;
 ```
+
+### WHERE Statement
+
+Syntax:
+```sql
+SELECT * FROM table_name WHERE condition;
+```
+
+Operators: 
+| Operator | Description |
+| --- | --- |
+| = | Equal |
+| > | Greater than |
+| > | Less than |
+| >= | Greater than or equal to |
+| <= | Less than or equal to |
+| <> or != | Not equal to |
+| AND | Logical Operator AND |
+| OR | Logical Operator OR |
+| IN | Return true if a value matches any value in a list |
+| BETWEEN | Return true if a value is between a range of values |
+| LIKE | Return true if a value matches a pattern |
+| IS NULL | Return true if a value is null |
+| NOT | Negate the result of other operators |
 
 ## Intermediate
 
