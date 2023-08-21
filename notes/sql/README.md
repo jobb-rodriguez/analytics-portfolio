@@ -128,4 +128,17 @@ Types:
 > [!NOTE]
 > You can access columns from both tables when using ```JOIN```.
 
+### Unions
+Syntax:
+```sql
+SELECT * FROM table_name1
+[UNION | UNION ALL]
+SELECT * FROM table_name2;
+```
+
+> [!NOTE]
+> Use ```UNION``` only if the columns are the same. You can use ```UNION ALL``` to view rows with ```NULL``` values.
+
+> [!WARNING]
+> Beware of using ```UNION``` on columns with similar data types. SQL will not be able to catch errors. So, it will lead to misleading rows.
 ## Advanced
