@@ -193,6 +193,8 @@ WHERE condition;
 ```
 
 > [!WARNING]
-> Deleting a record is irreversible unless you have a ```ROLLBACK```. It is not possible with ```TRUNCATE``` and ```DROP```. Use ```SELECT``` before running ```DELETE``` to ensure you are deleting the correct record/s. 
+> Deleting a record is irreversible unless you have a ```ROLLBACK```. It is not possible with ```TRUNCATE``` and ```DROP```.
+> [!NOTE]
+> Use ```SELECT``` before running ```DELETE``` to ensure you are deleting the correct record/s. 
 
 ## Advanced
