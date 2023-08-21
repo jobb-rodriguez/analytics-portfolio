@@ -281,3 +281,6 @@ CALL procedure_name;
 
 > [!NOTE]
 > You can view an example of Stored Procedure in PostgreSQL [here](https://www.postgresqltutorial.com/postgresql-plpgsql/postgresql-create-procedure/). You can also view how it's used in Microsft Server SQL [here](sql/stored_procedures.sql).
+
+## Subqueries
+You can use subqueries in ```SELECT```, ```FROM```, and ```WHERE```.
