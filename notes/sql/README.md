@@ -239,9 +239,25 @@ CREATE TEMPORARY TABLE table_name(
 
 Temporary tables are useful for not repeatedly running join queries.
 
-
 > [!NOTE]
-> View the [related SQL File](sql/temp_tables.sql) for more examples on Create Tables and Inserting Data. Read more about tables [here](https://www.postgresql.org/docs/current/sql-createtable.html).
+> View the [related SQL File](sql/temp_tables.sql) for examples on Temporary Tables. Read more about tables [here](https://www.postgresql.org/docs/current/sql-createtable.html).
 
 > [!IMPORTANT]
 > Run ```DROP TABLE IF EXISTS temp_table_name``` before creating a temporary table to avoid errors.
+
+## String Functions + Use Cases
+| Functions | Description | Syntax |
+| --- | --- | --- |
+| ```TRIM``` | Removes leading and trailing spaces | ```TRIM(column_name)``` |
+| ```LTRIM``` | Removes leading spaces | ```LTRIM(column_name)``` |
+| ```RTRIM``` | Removes trailing spaces | ```RTRIM(column_name)``` |
+| ```REPLACE``` | Replaces identified string with newly defined string | ```REPLACE(column_name, identified_string, new_string)``` |
+| ```SUBSTRING``` | Removes trailing spaces | ```SUBSTRING(column_name, starting_position, number_of_characters)``` |
+| ```UPPER``` | Turn all characters into uppercase | ```UPPER(column_name)``` |
+| ```LOWER``` | Turn all characters into lowercase | ```LOWER(column_name)``` |
+
+> [!NOTE]
+> For ```SUBSTRING```, ```starting_position``` begins its ```index``` with 1, not 0. View the [related SQL File](sql/string_functions.sql) for examples on String Functions.
+
+> [!NOTE]
+> You can also use substrings for Fuzzy Matching. Read more [here](https://www.amygb.ai/blog/how-does-fuzzy-matching-work). In application, use multiple columns to reduce risk of error.
