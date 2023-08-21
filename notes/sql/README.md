@@ -8,9 +8,9 @@ General Idea:
 ```sql
 CREATE TABLE table_name
 (
-    first_field type,
+    first_column type,
     ...,
-    last_field type
+    last_column type
 )
 ```
 
@@ -52,14 +52,14 @@ Syntax:
 ```sql
 SELECT * FROM table_name;
 SELECT TOP 5 * FROM table_name;
-SELECT field1, field..., fieldn FROM table_name;
+SELECT column1, column..., columnn FROM table_name;
 
-SELECT DISTINCT(field_name) FROM table_name;
+SELECT DISTINCT(column_name) FROM table_name;
 
-SELECT COUNT(field_name) AS column_name from table_name;
-SELECT MAX(field_name) AS column_name from table_name;
-SELECT MIN(field_name) AS column_name from table_name;
-SELECT AVG(field_name) AS column_name from table_name;
+SELECT COUNT(column_name) AS column_name from table_name;
+SELECT MAX(column_name) AS column_name from table_name;
+SELECT MIN(column_name) AS column_name from table_name;
+SELECT AVG(column_name) AS column_name from table_name;
 ```
 
 ### WHERE Statement
@@ -89,14 +89,14 @@ Operators:
 ### Group By + Order By
 Group By Syntax:
 ```sql
-SELECT * FROM table_name GROUP BY field1, field..., fieldn;
+SELECT * FROM table_name GROUP BY column1, column..., columnn;
 ```
 > [!NOTE]
 > ```DISTINCT``` returns the unique values based on the defined column, while ```GROUP BY``` returns the unique values and counts them as a group based on the defined column.
 
 Order By Syntax:
 ```sql
-SELECT * FROM table_name ORDER BY field1 [ASC | DESC], field... [ASC | DESC], fieldn [ASC | DESC];
+SELECT * FROM table_name ORDER BY column1 [ASC | DESC], column... [ASC | DESC], columnn [ASC | DESC];
 ```
 
 Example:
@@ -111,6 +111,21 @@ ORDER BY CountGender;
 > [!NOTE]
 > SQL uses ```ASC``` as default for ```ORDER BY```.
 ## Intermediate
+### Inner/Outer Joins
+Syntax:
+```sql
+SELECT * FROM table_name1
+JOIN table_name2
+ON table_name1.id = table_name2.id
+```
 
+Types:
+1. Inner Join - A intersection B
+2. Left Outer Join - A ^ A intersection B
+3. Right Outer Join - B ^ A intersection B
+4. Full Outer Join - A union B
+
+> [!NOTE]
+> You can access columns from both tables when using ```JOIN```.
 
 ## Advanced
