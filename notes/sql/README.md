@@ -213,3 +213,18 @@ ON dem.EmployeeID = sal.EmployeeID
 ```
 
 # Advanced
+
+## Common Table Expressions (CTEs)
+CTE allows you to store information in a table. However, it is not a temporary table.
+
+Syntax:
+```sql
+WITH custom_table_name AS
+(
+    QUERY
+);
+SELECT * FROM custom_table_name;
+```
+
+> [!NOTE]
+> The ```custom_table_name``` only works one query after its declaration.
