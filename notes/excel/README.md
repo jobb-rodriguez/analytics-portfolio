@@ -15,7 +15,7 @@ Pivot Tables allow you to utilize the data in your columns into four different a
 
 # Formulas in Excel
 | Formula | Description | Sample Use Case |
-| --- | --- |
+| --- | --- | --- |
 | ```MAX(Numbers or Range)``` | Return the maximum value in a given range | Measures of Central Tendency |
 | ```MIN(Numbers or Range)``` | Return the minimum value in a given range | Measures of Central Tendency |
 | ```IF(logical_test, value_if_true, value_if_false)``` | Return value based on a condition | Labeling |
