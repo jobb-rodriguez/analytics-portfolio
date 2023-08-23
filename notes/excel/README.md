@@ -43,5 +43,22 @@ Pivot Tables allow you to utilize the data in your columns into four different a
 > [!IMPORTANT]
 > You can read [Simplilearn's Top 30 Excel Formulas](https://www.simplilearn.com/tutorials/excel-tutorial/excel-formulas).
 
+# XLOOKUP
+Use the XLOOKUP function to find things in a table or range by row.
+
+Syntax:
+```
+XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode])
+```
+
+Sample Use Case:
+For example, look up the price of an automotive part by the part number, or find an employee name based on their employee ID.
+
+> [!NOTE]
+> You can test out XLOOKUP with [Alex the Analyts's XLOOKUP Template](excel/xlookup.xlsx).
+
+> [!IMPORTANT]
+> You can read XLOOKUP's documentation [here](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929). It is a newer version of ```VLOOKUP```.
+
 # Advanced Lessons
 For more advanced topics in Excel, you can review [Excel Skills for Business](https://www.coursera.org/specializations/excel).
