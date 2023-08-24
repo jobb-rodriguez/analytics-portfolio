@@ -85,6 +85,32 @@ Using the concepts in Storytelling with Data and Chart Creation in Excel, below 
 > [!IMPORTANT]
 > Read [Storytelling with Data](https://www.storytellingwithdata.com/) to communicate a message effectively to your intended stakeholder.
 
+# Data Cleaning
+Clean your data to standardize formatting.
+
+When the dataset is small, you can do data cleaning in Excel.
+
+| Common Issues | Data Cleaning Method |
+| --- | --- |
+| Duplicates | ```Data > Remove Duplicates``` option |
+| Text Case | Use ```PROPER()``` or ```UPPER()``` |
+| Additional Spaces | Use ```TRIM()``` |
+| Special Characters Error | Use ```SUBSTITUTE()``` |
+| Date Formatting | Filter and Number Formatting |
+
+**Tips:**
+1. Don't clean everything in your dataset. Save time by cleaning the data you only plan to use.
+2. Use Filter to identify unique values.
+3. When importing data to SQL and Python, the currency symbol creates extra work. So, convert the data to a Number. But remember the currency symbol for reporting purposes.
+4. After data cleaning, Paste as Value to convert Functions into Strings.
+5. Delete Unused Columns.
+6. Instead of using a different sheet, use a different file. Have a Master Copy and a Working Copy.
+
+> [!NOTE]
+> You can test out Data Cleaning with [Data Cleaning Template](excel/data_cleaning.xlsx). It uses the [US President Dataset from Kaggle](https://www.kaggle.com/datasets/harshitagpt/us-presidents).
+
+> [!IMPORTANT]
+> If you have a big dataset or have scripts for data cleaning, use Python for Data Cleaning.
 
 # Advanced Lessons
 For more advanced topics in Excel, you can review [Excel Skills for Business](https://www.coursera.org/specializations/excel).
