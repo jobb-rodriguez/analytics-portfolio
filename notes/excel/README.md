@@ -65,10 +65,11 @@ For example, look up the price of an automotive part by the part number, or find
 - Use Color Scales as Heatmap. Data Bars are not used very often.
 - Set rules for the Top/Bottom data with Top/Bottom Rules.
 - *Highlight Cells Rules* is the most used feature.
+- You can *Use a Formula* to add a new rule.
 
 Sample Use Cases:
 - Finding Duplicates is useful for Data Cleaning.
-- 
+- Text that Contains is useful for searching substrings.
 
 > [!NOTE]
 > You can test out XLOOKUP with [Conditional Formatting Template](excel/conditional_formatting.xlsx).
