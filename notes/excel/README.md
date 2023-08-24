@@ -38,7 +38,7 @@ Pivot Tables allow you to utilize the data in your columns into four different a
 
 
 > [!NOTE]
-> You can test out this formulas with [Alex the Analyst's Formulas Template](excel/formulas.xlsx).
+> You can test out this formulas with [Formulas Template](excel/formulas.xlsx).
 
 > [!IMPORTANT]
 > You can read [Simplilearn's Top 30 Excel Formulas](https://www.simplilearn.com/tutorials/excel-tutorial/excel-formulas).
@@ -55,10 +55,24 @@ Sample Use Case:
 For example, look up the price of an automotive part by the part number, or find an employee name based on their employee ID.
 
 > [!NOTE]
-> You can test out XLOOKUP with [Alex the Analyts's XLOOKUP Template](excel/xlookup.xlsx).
+> You can test out XLOOKUP with [XLOOKUP Template](excel/xlookup.xlsx).
 
 > [!IMPORTANT]
 > You can read XLOOKUP's documentation [here](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929). It is a newer version of ```VLOOKUP```.
+
+# Conditional Formatting
+- When using Icon Sets, you can check the *rules*. Alex commonly uses the Direction Arrows.
+- Use Color Scales as Heatmap. Data Bars are not used very often.
+- Set rules for the Top/Bottom data with Top/Bottom Rules.
+- *Highlight Cells Rules* is the most used feature.
+
+Sample Use Cases:
+- Finding Duplicates is useful for Data Cleaning.
+- 
+
+> [!NOTE]
+> You can test out XLOOKUP with [Conditional Formatting Template](excel/conditional_formatting.xlsx).
+
 
 # Advanced Lessons
 For more advanced topics in Excel, you can review [Excel Skills for Business](https://www.coursera.org/specializations/excel).
