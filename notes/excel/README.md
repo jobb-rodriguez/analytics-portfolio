@@ -72,7 +72,16 @@ Sample Use Cases:
 - Text that Contains is useful for searching substrings.
 
 > [!NOTE]
-> You can test out XLOOKUP with [Conditional Formatting Template](excel/conditional_formatting.xlsx).
+> You can test out Conditional Formatting with [Conditional Formatting Template](excel/conditional_formatting.xlsx).
+
+# Charts
+
+
+> [!NOTE]
+> You can test out Charts with [Charts Template](excel/charts.xlsx).
+
+> [!IMPORTANT]
+> Read [Storytelling with Data](https://www.storytellingwithdata.com/) to communicate a message effectively to your intended stakeholder.
 
 
 # Advanced Lessons
