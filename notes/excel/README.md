@@ -75,7 +75,9 @@ Sample Use Cases:
 > You can test out Conditional Formatting with [Conditional Formatting Template](excel/conditional_formatting.xlsx).
 
 # Charts
+Using the concepts in Storytelling with Data and Chart Creation in Excel, below is my Chart with Recommendation for the Products Dataset:
 
+![Line Chart on the Products Sold Per Month](/notes/excel/charts/products_sold_per_month.png)
 
 > [!NOTE]
 > You can test out Charts with [Charts Template](excel/charts.xlsx).
