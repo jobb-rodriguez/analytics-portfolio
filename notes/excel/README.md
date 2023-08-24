@@ -104,7 +104,7 @@ When the dataset is small, you can do data cleaning in Excel.
 3. When importing data to SQL and Python, the currency symbol creates extra work. So, convert the data to a Number. But remember the currency symbol for reporting purposes.
 4. After data cleaning, Paste as Value to convert Functions into Strings.
 5. Delete Unused Columns.
-6. Instead of using a different sheet, use a different file. Have a Master Copy and a Working Copy.
+6. Have a Working Data Sheet.
 
 > [!NOTE]
 > You can test out Data Cleaning with [Data Cleaning Template](excel/data_cleaning.xlsx). It uses the [US President Dataset from Kaggle](https://www.kaggle.com/datasets/harshitagpt/us-presidents).
