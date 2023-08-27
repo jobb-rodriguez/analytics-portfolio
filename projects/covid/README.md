@@ -146,7 +146,7 @@ SELECT *, (RollingPeopleVaccinated / Population) * 100 AS "Rolling Vaccination P
 FROM PopvsVac;
 ```
 
-## Using Temp Table to perform Calculation on Partition By in previous query
+### Using Temp Table to perform Calculation on Partition By in previous query
 ```sql
 DROP TABLE IF EXISTS PopvsVac;
 
