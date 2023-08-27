@@ -188,3 +188,11 @@ SELECT * FROM PercentPopulationVaccinated;
 
 > [!NOTE]
 > A view is the result set of a stored query.
+
+## Exporting a View to CSV
+```sql
+\COPY (SELECT * FROM PercentPopulationVaccinated) TO '/Users/mac/Documents/github/analytics-portfolio/projects/covid/covid_percentpopulationvaccinated.csv' DELIMITER ',' CSV HEADER;
+```
+
+> [!NOTE]
+> Exporting a CSV allows the results to be used in Excel, Tableau, and Python.
