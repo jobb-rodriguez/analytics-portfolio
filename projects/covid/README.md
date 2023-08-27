@@ -195,5 +195,7 @@ SELECT * FROM PercentPopulationVaccinated;
 \COPY (SELECT * FROM PercentPopulationVaccinated) TO '/Users/mac/Documents/github/analytics-portfolio/projects/covid/covid_percentpopulationvaccinated.csv' DELIMITER ',' CSV HEADER;
 ```
 
+You can access the [CSV](/projects/covid/covid_percentpopulationvaccinated.csv) and [raw queries](/projects/covid/queries.sql).
+
 > [!NOTE]
 > Exporting a CSV allows the results to be used in Excel, Tableau, and Python.
