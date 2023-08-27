@@ -33,6 +33,7 @@
 3. Type Conversion
 4. Joins
 5. CTE's and Temp Tables
+6. Export CSV
 
 ## Select Data that we are going to be starting with
 ```sql
