@@ -100,5 +100,3 @@ JOIN "CovidVaccinations" vaccine
 WHERE death.continent IS NOT NULL;
 
 SELECT * FROM PercentPopulationVaccinated;
-
-\COPY (SELECT * FROM PercentPopulationVaccinated) TO '/Users/mac/Documents/github/analytics-portfolio/projects/covid/covid_percentpopulationvaccinated.csv' DELIMITER ',' CSV HEADER;

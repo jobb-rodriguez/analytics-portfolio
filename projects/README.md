@@ -1,4 +1,4 @@
-# Bike Sales Dashboard (Excel and PowerPoint)
+# Bike Sales Dashboard (Excel, Word, PowerPoint, and Video)
 Big Idea: Major Finding that's beneficial to Stakeholder
 
 Brief Description (includes summary and tool used).
@@ -20,3 +20,24 @@ Brief Description (includes summary and tool used).
 
 > [!IMPORTANT]
 > I added my own analyses and recommendations on increasing the Bike Sales.
+
+# Covid Data (SQL)
+I conducted Data Exploration to help people have a general idea about the state of the world during Covid.
+
+[Read more here.](/projects/covid/).
+
+**Skills Used:**
+1. Importing Data into PostgreSQL
+2. Descriptive Staistics
+3. Window Functions and Aggregate Functions
+4. Type Conversion
+5. Joins
+6. CTE's and Temp Tables
+7. Export CSV ([Access the exported CSV](/projects/covid/covid_percentpopulationvaccinated.csv))
+
+# Nashville Housing (SQL)
+I conducted Data Cleaning to ready the data for exploration and analysis in Excel, Python, and Tableau.
+
+[Read more here.](/projects/nashville-housing/)
+
+**Skills Used:**
