@@ -1,3 +1,11 @@
+# Skills Used
+1. Importing Data into PostgreSQL
+2. Populating Missing Data
+3. Splitting Data
+4. Removing Duplicates
+5. Dropping Columns
+6. Export CSV ([Access the exported CSV](/projects/nashville-housing/nashville_housing_cleaned.csv))
+
 # Populate Property Address data
 Some rows do not have a Property Address. Data has shown consistency in address with the ```ParcelID```.
 ```sql

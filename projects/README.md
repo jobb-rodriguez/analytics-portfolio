@@ -28,7 +28,7 @@ I conducted Data Exploration to help people have a general idea about the state 
 
 **Skills Used:**
 1. Importing Data into PostgreSQL
-2. Descriptive Staistics
+2. Descriptive Statistics
 3. Window Functions and Aggregate Functions
 4. Type Conversion
 5. Joins
@@ -41,3 +41,9 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 [Read more here.](/projects/nashville-housing/)
 
 **Skills Used:**
+1. Importing Data into PostgreSQL
+2. Populating Missing Data
+3. Splitting Data
+4. Removing Duplicates
+5. Dropping Columns
+6. Export CSV ([Access the exported CSV](/projects/nashville-housing/nashville_housing_cleaned.csv))

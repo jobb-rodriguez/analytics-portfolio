@@ -28,7 +28,7 @@
 
 # Data Exploration
 **Skills Used:**
-1. Descriptive Staistics
+1. Descriptive Statistics
 2. Window Functions and Aggregate Functions
 3. Type Conversion
 4. Joins
