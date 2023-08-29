@@ -14,9 +14,9 @@ Brief Description (includes summary and tool used).
 3. Which region should Clement target?
 
 *Outputs:*
-- Access the Dashboard [here](mini-projects/clements-bicycle-shop/dashboard.xlsx).
-- Read Customer Information [here](mini-projects/clements-bicycle-shop/customer_information.docx). Watch me explain it [here]().
-- View the Proposed Target Customer Presentation [here](mini-projects/clements-bicycle-shop/proposed_target_customer_2023q3.pptx). Watch me explain it [here]().
+- Access the [Dashboard](mini-projects/clements-bicycle-shop/dashboard.xlsx).
+- Read the [Customer Information](mini-projects/clements-bicycle-shop/customer_information.docx). Watch me explain it [here]().
+- View the [Proposed Target Customer Presentation](mini-projects/clements-bicycle-shop/proposed_target_customer_2023q3.pptx). [Watch me explain it]().
 
 > [!IMPORTANT]
 > I added my own analyses and recommendations on increasing the Bike Sales.
@@ -24,7 +24,7 @@ Brief Description (includes summary and tool used).
 # Covid Data (SQL)
 I conducted Data Exploration to help people have a general idea about the state of the world during Covid.
 
-[Read more here.](/projects/covid/).
+[Read more here](/projects/covid/).
 
 **Skills Used:**
 1. Importing Data into PostgreSQL
@@ -38,7 +38,7 @@ I conducted Data Exploration to help people have a general idea about the state 
 # Nashville Housing (SQL)
 I conducted Data Cleaning to ready the data for exploration and analysis in Excel, Python, and Tableau.
 
-[Read more here.](/projects/nashville-housing/)
+[Read more here](/projects/nashville-housing/).
 
 **Skills Used:**
 1. Importing Data into PostgreSQL
