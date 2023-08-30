@@ -1,8 +1,6 @@
 # Automobile Price Prediction using Multivariate Linear Regression
 # Conclusion
-```Number of Convenience Stores vs Price``` had the lowest optimized cost with a relatively fair learning rate (in consideration of the other features). Moreover, the pair’s optimized regression line is the nearest to the scatterplot.
-
-As a result, Number of Convenience Stores is the best feature to predict the House Price.
+Based on the thetas, the learning rate, and the optimized cost, ```Car Perform with Curb Weight vs Price``` performs the best.
 
 [Read the full report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf).
 
@@ -19,4 +17,4 @@ In preparing the data for analysis, I perform the following preprocessing techni
 # Analysis
 With the available features and engineered features, I conducted Multivariate Linear Regression for comparison with ```numpy``` and plotted the results with ```matplotlib``` and ```seaborn```.
 
-You can see me exploring the data in [Jupyter Notebooks](/projects/automobile-price-prediction/cars.ipynb).
+You can see me exploring the data in [```Jupyter Notebooks```](/projects/automobile-price-prediction/cars.ipynb).
