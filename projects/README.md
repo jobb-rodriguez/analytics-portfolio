@@ -67,6 +67,7 @@ In this analysis, I used ```Linear Regression``` with One Feature to identify th
 
 ## Automobile Price Prediction using Multivariate Linear Regression (Pandas, Numpy, Matplotlib, Seaborn)
 **Abstract**
+
 In this analysis, I used ```Multivariate Linear Regression``` to identify which experiment performs best in predicting the price
 given the dataset, [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile). All sets of features. However, in terms of the optimized cost, the thetas, and the learning rate, ```Car Performance with Curb Weight vs Price``` performed best.
 
@@ -77,10 +78,10 @@ given the dataset, [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/a
 ## Cardiovascular Disease using Multi-layer Perceptron Classifier and Logistic Regression (Pandas, Numpy, Scikit-learn)
 **Abstract**
 
-In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), 
+In this analysis, I used ```Multi-layer Perceptron classifier (MPC)``` and ```Logistic Regression (LR)``` to identify which configuration of MPC performs best and identify if LR outperforms MPC in predicting the cardiovascular disease given the dataset, [Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset). Moreover, I aimed to identify if the ```Body Mass Index (BMI)``` can improve the performance of the models. 
 
-```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
+The MPC model, without BMI, with the default configuration performed the best with an average test accuracy score of 73.39%. The MPC model, with BMI, with the default configuration performed the best with an average test accuracy score of 73.36%. Without BMI, the MPC’s
+average test accuracy score was 1.36% higher than LR. With BMI, the MPC’s average test accuracy score was 1.33% higher than LR. The BMI does not improve the models’ performances.
 
-- [Read the Report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf) 
-- [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction)
+- [Read the Report](/projects/cardiovascular-disease-prediction/Report%20-%20Cardiovascular%20Disease%20Prediction.pdf) 
 - [Access the Folder](/projects/cardiovascular-disease-prediction/) 
