@@ -47,3 +47,11 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 4. Removing Duplicates
 5. Dropping Columns
 6. Export CSV ([Access the exported CSV](/projects/nashville-housing/nashville_housing_cleaned.csv))
+
+# Create a Dataset with Amazon Webscraping (Python and Beautiful Soup)
+**Skills Used:**
+1. Webscraping with Beautiful Soup
+2. Exporting scrapped data into a CSV
+3. Reading a CSV with Pandas
+
+[Access the notebook](/projects/Amazon%20Webscraping.ipynb).

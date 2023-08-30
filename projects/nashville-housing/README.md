@@ -148,7 +148,7 @@ DROP COLUMN "SaleDate";
 
 # Export Table to CSV
 ```sql
-\COPY (SELECT * FROM "NashvilleHousing") TO '/Users/mac/Documents/github/analytics-portfolio/projects/nashville-housing/nashville_housing_cleaned.csv' DELIMITER ',' CSV HEADER;
+\COPY (SELECT * FROM "NashvilleHousing") TO '//mac/Documents/github/analytics-portfolio/projects/nashville-housing/nashville_housing_cleaned.csv' DELIMITER ',' CSV HEADER;
 ```
 
 > [!IMPORTANT]
