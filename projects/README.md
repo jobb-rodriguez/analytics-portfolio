@@ -1,4 +1,5 @@
-# Bike Sales Dashboard (Excel, Word, PowerPoint, and Video)
+# Excel
+## Bike Sales Dashboard (Excel, Word, PowerPoint, and Video)
 Big Idea: Major Finding that's beneficial to Stakeholder
 
 Brief Description (includes summary and tool used).
@@ -21,7 +22,11 @@ Brief Description (includes summary and tool used).
 > [!IMPORTANT]
 > I added my own analyses and recommendations on increasing the Bike Sales.
 
-# Covid Data (SQL)
+# Tableau
+## Tableau Dashboard (Tableau, Word, PowerPoint, and Video)
+
+# SQL
+## Covid Data (SQL)
 I conducted Data Exploration to help people have a general idea about the state of the world during Covid.
 
 [Read more here](/projects/covid/).
@@ -35,7 +40,7 @@ I conducted Data Exploration to help people have a general idea about the state 
 6. CTE's and Temp Tables
 7. Export CSV ([Access the exported CSV](/projects/covid/covid_percentpopulationvaccinated.csv))
 
-# Nashville Housing (SQL)
+## Nashville Housing (SQL)
 I conducted Data Cleaning to ready the data for exploration and analysis in Excel, Python, and Tableau.
 
 [Read more here](/projects/nashville-housing/).
@@ -48,16 +53,9 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 5. Dropping Columns
 6. Export CSV ([Access the exported CSV](/projects/nashville-housing/nashville_housing_cleaned.csv))
 
-# Create a Dataset with Amazon Webscraping (Python and Beautiful Soup)
-**Skills Used:**
-1. Webscraping with Beautiful Soup
-2. Exporting scrapped data into a CSV
-3. Reading a CSV with Pandas
+# Python
+## Housing Price Prediction using Linear Regression with One Feature 
 
-[Access the notebook](/projects/Amazon%20Webscraping.ipynb).
+## Automobile Price Prediction using Multivariate Linear Regression
 
-> [!NOTE]
-> Some websites have rate limiting and CAPTCHA to prevent automated scraping.
-
-> [!WARNING]
-> Ensure to check the site's ```robots.txt``` and Terms and Conditions before scraping to avoid legal issues.
+## Cardiovascular Disease using Multi-layer Perceptron Classifier and Logistic Regression
