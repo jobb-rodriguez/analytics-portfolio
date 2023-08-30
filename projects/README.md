@@ -23,10 +23,10 @@ Brief Description (includes summary and tool used).
 > I added my own analyses and recommendations on increasing the Bike Sales.
 
 # Tableau
-## Tableau Dashboard (Tableau, Word, PowerPoint, and Video)
+## Tableau Dashboard (Tableau Public, Word, PowerPoint, and Video)
 
 # SQL
-## Covid Data (SQL)
+## Covid Data (PostgreSQL)
 I conducted Data Exploration to help people have a general idea about the state of the world during Covid.
 
 [Read more here](/projects/covid/).
@@ -40,7 +40,7 @@ I conducted Data Exploration to help people have a general idea about the state 
 6. CTE's and Temp Tables
 7. Export CSV ([Access the exported CSV](/projects/covid/covid_percentpopulationvaccinated.csv))
 
-## Nashville Housing (SQL)
+## Nashville Housing (PostgreSQL)
 I conducted Data Cleaning to ready the data for exploration and analysis in Excel, Python, and Tableau.
 
 [Read more here](/projects/nashville-housing/).
@@ -54,8 +54,28 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 6. Export CSV ([Access the exported CSV](/projects/nashville-housing/nashville_housing_cleaned.csv))
 
 # Python
-## Housing Price Prediction using Linear Regression with One Feature 
+## Housing Price Prediction using Linear Regression with One Feature (Numpy, Matplotlib)
+**Abstract**
+In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), ```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
 
-## Automobile Price Prediction using Multivariate Linear Regression
+[Read the Report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf). [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
 
-## Cardiovascular Disease using Multi-layer Perceptron Classifier and Logistic Regression
+> [!NOTE]
+> [You can access the folder here](/projects/housing-price-prediction/). 
+
+## Automobile Price Prediction using Multivariate Linear Regression (Pandas, Numpy, Matplotlib, Seaborn)
+**Abstract**
+
+[Read the Report](). [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+
+> [!NOTE]
+> [You can access the folder here](/projects/automobile-price-prediction/).
+
+
+## Cardiovascular Disease using Multi-layer Perceptron Classifier and Logistic Regression (Pandas, Numpy, Scikit-learn)
+**Abstract**
+
+[Read the Report](). [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+
+> [!NOTE]
+> [You can access the folder here](/projects/cardiovascular-disease-prediction/).
