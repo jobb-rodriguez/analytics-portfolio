@@ -7,7 +7,7 @@ As a result, Number of Convenience Stores is the best feature to predict the Hou
 [Read the full report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf).
 
 # Dataset
-Real estate price prediction came from [UC Irvine Machine Learning Repository]https://archive.ics.uci.edu/dataset/10/automobile). [Access the file](/projects/automobile-price-prediction/car.csv).
+Real estate price prediction came from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/10/automobile). [Access the file](/projects/automobile-price-prediction/car.csv).
 
 # Data Preprocessing
 In preparing the data for analysis, I perform the following preprocessing techniques with ```pandas```:
