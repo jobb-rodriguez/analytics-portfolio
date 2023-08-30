@@ -55,3 +55,6 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 3. Reading a CSV with Pandas
 
 [Access the notebook](/projects/Amazon%20Webscraping.ipynb).
+
+> [!WARNING]
+> Some websites have rate limiting and CAPTCHA to prevent automated scraping.
