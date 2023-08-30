@@ -4,8 +4,7 @@
 
 As a result, Number of Convenience Stores is the best feature to predict the House Price.
 
-# Report
-[Read the report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf).
+[Read the full report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf).
 
 # Dataset
 Real estate price prediction came from [Kaggle](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction). [Access the file](/projects/housing-price-prediction/realestate.csv).
