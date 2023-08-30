@@ -1,4 +1,4 @@
-# Housing Price Prediction using Linear Regression with One Feature
+# Automobile Price Prediction using Multivariate Linear Regression
 # Conclusion
 ```Number of Convenience Stores vs Price``` had the lowest optimized cost with a relatively fair learning rate (in consideration of the other features). Moreover, the pair’s optimized regression line is the nearest to the scatterplot.
 
