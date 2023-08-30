@@ -56,26 +56,34 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 # Python
 ## Housing Price Prediction using Linear Regression with One Feature (Numpy, Matplotlib)
 **Abstract**
-In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), ```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
 
-[Read the Report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf). [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), 
 
-> [!NOTE]
-> [You can access the folder here](/projects/housing-price-prediction/). 
+```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
+
+- [Read the Report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf). 
+- [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+- [Access the Folder](/projects/housing-price-prediction/). 
 
 ## Automobile Price Prediction using Multivariate Linear Regression (Pandas, Numpy, Matplotlib, Seaborn)
 **Abstract**
 
-[Read the Report](). [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), 
 
-> [!NOTE]
-> [You can access the folder here](/projects/automobile-price-prediction/).
+```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
+
+- [Read the Report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf). 
+- [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+- [Access the Folder](/projects/automobile-price-prediction/). 
 
 
 ## Cardiovascular Disease using Multi-layer Perceptron Classifier and Logistic Regression (Pandas, Numpy, Scikit-learn)
 **Abstract**
 
-[Read the Report](). [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), 
 
-> [!NOTE]
-> [You can access the folder here](/projects/cardiovascular-disease-prediction/).
+```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
+
+- [Read the Report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf). 
+- [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+- [Access the Folder](/projects/cardiovascular-disease-prediction/). 
