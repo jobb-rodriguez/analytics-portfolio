@@ -57,7 +57,7 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 ## Housing Price Prediction using Linear Regression with One Feature (Numpy, Matplotlib)
 **Abstract**
 
-In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), 
+In this analysis, I used ```Linear Regression``` with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), 
 
 ```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
 
@@ -67,13 +67,10 @@ In this paper, I used Linear Regression with One Feature to identify the best fe
 
 ## Automobile Price Prediction using Multivariate Linear Regression (Pandas, Numpy, Matplotlib, Seaborn)
 **Abstract**
+In this analysis, I used ```Multivariate Linear Regression``` to identify which experiment performs best in predicting the price
+given the dataset, [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile). All sets of features. However, in terms of the optimized cost, the thetas, and the learning rate, ```Car Performance with Curb Weight vs Price``` performed best.
 
-In this paper, I used Linear Regression with One Feature to identify the best feature to predict the house price. From the available features (Transaction Date, House Age, Distance to the nearest MRT station, Number of Convenience Stores, Latitude, and Longitude), 
-
-```Number of Convenience Stores``` is the best feature to use in predicting house price. The optimized cost was ```62.236```, (0, 0) as values of the initial thetas and 0 as value of the learning rate. The scatterplot is close to the feature’s optimized regression line.
-
-- [Read the Report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf) 
-- [Access the Dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction)
+- [Read the Report](/projects/automobile-price-prediction/Report%20-%20Automobile%20Price%20Prediction.pdf) 
 - [Access the Folder](/projects/automobile-price-prediction/) 
 
 

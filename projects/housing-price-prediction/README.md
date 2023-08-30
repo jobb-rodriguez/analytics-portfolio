@@ -10,7 +10,7 @@ As a result, Number of Convenience Stores is the best feature to predict the Hou
 Real estate price prediction came from [Kaggle](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction). [Access the file](/projects/housing-price-prediction/realestate.csv).
 
 # Analysis
-Per feature available, I conducted Linear Regression for comparison with [```lin_reg.py```](/projects/housing-price-prediction/lin_reg.py).
+Per feature available, I conducted Linear Regression for comparison with ```numpy``` and plotted the results with ```matplotlib``` as seen in [```lin_reg.py```](/projects/housing-price-prediction/lin_reg.py).
 | Feature vs Price | File |
 | --- | --- |
 | Transaction Date | [```lin_reg_date.py```](/projects/housing-price-prediction/lin_reg_date.py) |

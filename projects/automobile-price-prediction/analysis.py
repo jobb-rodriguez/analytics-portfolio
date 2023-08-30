@@ -47,7 +47,7 @@ def der(theta, data, output, pos):
     return sum
 
 
-data = load("rodriguez_cars_preprocessed.csv")
+data = load("cars_preprocessed.csv")
 price = data[:, -1]
 # Variables for Different Sets
 feature_count = [6]
