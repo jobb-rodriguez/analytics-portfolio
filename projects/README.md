@@ -56,5 +56,8 @@ I conducted Data Cleaning to ready the data for exploration and analysis in Exce
 
 [Access the notebook](/projects/Amazon%20Webscraping.ipynb).
 
-> [!WARNING]
+> [!NOTE]
 > Some websites have rate limiting and CAPTCHA to prevent automated scraping.
+
+> [!WARNING]
+> Ensure to check the site's ```robots.txt``` and Terms and Conditions before scraping to avoid legal issues.
