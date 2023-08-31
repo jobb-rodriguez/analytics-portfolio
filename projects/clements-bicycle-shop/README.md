@@ -38,8 +38,8 @@ Clement runs an E-commerce Bike Shop. He wants to know which type of customers h
 | Region | Most purchases were from North America. |
 
 Notes: 
-- \* Income Brackets: D: < $13,000; C: < $52,000; B: < $155,000; A: >= $155,000
-- ** Age Brackets: Adolescent: < 31 years old; Middle Age: >= 31 years old; Old: > 54 years old
+\* Income Brackets: D: < $13,000; C: < $52,000; B: < $155,000; A: >= $155,000
+** Age Brackets: Adolescent: < 31 years old; Middle Age: >= 31 years old; Old: > 54 years old
 
 2. Does the characteristic influence a customer's buying decision?
 
@@ -51,7 +51,7 @@ Notes:
 | Gender | No |
 | Commute Distance | Yes |
 
-3. 
+3. Per region, a pattern appeared based on income bracket and commute distance.
 - In Europe, most customers were from Class C who commutes 0-1 miles.
 - In North America, most customers were from Class B who commutes 2-5 miles.
 - In the Pacific, most customers were from Class B who commutes 0-1 miles.
