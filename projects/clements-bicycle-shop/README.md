@@ -39,6 +39,7 @@ Clement runs an E-commerce Bike Shop. He wants to know which type of customers h
 
 Notes: 
 \* Income Brackets: D: < $13,000; C: < $52,000; B: < $155,000; A: >= $155,000
+
 ** Age Brackets: Adolescent: < 31 years old; Middle Age: >= 31 years old; Old: > 54 years old
 
 2. Does the characteristic influence a customer's buying decision?
