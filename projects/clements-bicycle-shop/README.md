@@ -1,5 +1,5 @@
 # Big Idea
-Majority of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. So, utilize 60% of the ad budget targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bikes.
+Majority of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. I recommend splitting the ad budget into 60-40. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bikes.
 
 # Storyboard
 - **Issue:** Which type of customers do we target for 2023 Q3?
