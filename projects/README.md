@@ -12,9 +12,6 @@ Big Idea: Most of our buying customers were from North America commuting 2-5 mil
 - Read the [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing).
 - View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://youtu.be/RgA_edMPTIs).
 
-> [!IMPORTANT]
-> I performed my own analyses and recommendations on increasing the Bike Sales.
-
 # Tableau
 ## Tableau Dashboard (Tableau Public, Docs)
 
