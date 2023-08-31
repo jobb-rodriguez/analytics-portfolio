@@ -1,5 +1,5 @@
 # Big Idea
-Majority of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. Splitting the ad budget into 60-40 can generate the most ROI. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bikes.
+Most of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. Splitting the ad budget into 60-40 can generate the most ROI. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bike.
 
 # Storyboard
 - **Issue:** Which type of customers do we target for 2023 Q3?
@@ -12,7 +12,7 @@ Majority of our buying customers were from North America commuting 2-5 miles and
 # Outputs
 - [Dashboard](/projects/clements-bicycle-shop/dashboard.xlsx)
 - [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing)
-- [Presentation]() ([Video]())
+- [Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) ([Video](https://youtu.be/RgA_edMPTIs))
 
 # Situation
 Clement runs an E-commerce Bike Shop. He wants to know which type of customers he should target for 2023 Q3.

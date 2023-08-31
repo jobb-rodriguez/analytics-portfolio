@@ -1,6 +1,6 @@
 # Excel
 ## Bike Purchased Bikes Dashboard (Excel, Docs, Canva, and Video)
-Big Idea: Majority of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. Splitting the ad budget into 60-40 can generate the most ROI. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bikes.
+Big Idea: Most of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. Splitting the ad budget into 60-40 can generate the most ROI. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bike.
 
 *Situation:* Clement runs an E-commerce Bike Shop. He wants to know which type of customers he should target for 2023 Q3.
 1. Clement never saw the dataset for his customers. So he wants to have a general idea about them.
@@ -10,13 +10,13 @@ Big Idea: Majority of our buying customers were from North America commuting 2-5
 *Outputs:*
 - Access the [Dashboard](mini-projects/clements-bicycle-shop/dashboard.xlsx).
 - Read the [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing).
-- View the [Proposed Target Customer Presentation](mini-projects/clements-bicycle-shop/proposed_target_customer_2023q3.pptx). [Watch me explain it]().
+- View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://youtu.be/RgA_edMPTIs).
 
 > [!IMPORTANT]
 > I performed my own analyses and recommendations on increasing the Bike Sales.
 
 # Tableau
-## Tableau Dashboard (Tableau Public)
+## Tableau Dashboard (Tableau Public, Docs)
 
 # SQL
 ## Covid Data (PostgreSQL)
