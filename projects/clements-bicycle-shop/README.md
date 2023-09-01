@@ -12,7 +12,7 @@ Most of our buying customers were from North America commuting 2-5 miles and Eur
 # Outputs
 - [Dashboard](/projects/clements-bicycle-shop/dashboard.xlsx)
 - [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing)
-- [Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) ([Video](https://youtu.be/RgA_edMPTIs))
+- [Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) ([Video](https://www.youtube.com/watch?v=QlKbsO8kktE))
 
 # Situation
 Clement runs an E-commerce Bike Shop. He wants to know which type of customers he should target for 2023 Q3.

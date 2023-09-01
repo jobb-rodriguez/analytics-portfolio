@@ -10,10 +10,27 @@ Big Idea: Most of our buying customers were from North America commuting 2-5 mil
 *Outputs:*
 - Access the [Dashboard](mini-projects/clements-bicycle-shop/dashboard.xlsx).
 - Read the [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing).
-- View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://youtu.be/RgA_edMPTIs).
+- View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://youtu.be/QlKbsO8kktE).
 
 # Tableau
-## Tableau Dashboard (Tableau Public, Docs)
+## Airbnb Dashboard (Tableau Public, Python, Docs)
+Big Idea: Most of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. Splitting the ad budget into 60-40 can generate the most ROI. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bike.
+
+*Situation:* Clement runs an E-commerce Bike Shop. He wants to know which type of customers he should target for 2023 Q3.
+1. Clement never saw the dataset for his customers. So he wants to have a general idea about them.
+2. He also wants to know if income, gender, marital status, and commute distance plays a role in their purchasing decision.
+3. He's also considering on which region to allocate his budget.
+
+*Outputs:*
+- Access the [Dashboard](mini-projects/clements-bicycle-shop/dashboard.xlsx).
+- Read the [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing).
+- View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://www.youtube.com/watch?v=QlKbsO8kktE).
+
+> [!IMPORTANT]
+> The dashboard contains [Airbnb data](http://insideairbnb.com/get-the-data/) from Seattle, Washington, United States as of June 24, 2023. I'll include the link to the dataset after Kaggle verifies my account.
+
+> [!NOTE]
+> I wrote a [Python script](/projects/airbnb/gzip_converter.py) to convert ```gz``` files into ```csv``` files.
 
 # SQL
 ## Covid Data (PostgreSQL)
@@ -63,7 +80,6 @@ given the dataset, [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/a
 
 - [Read the Report](/projects/automobile-price-prediction/Report%20-%20Automobile%20Price%20Prediction.pdf) 
 - [Access the Folder](/projects/automobile-price-prediction/) 
-
 
 ## Cardiovascular Disease using Multi-layer Perceptron Classifier and Logistic Regression (Pandas, Numpy, Scikit-learn)
 **Abstract**
