@@ -13,24 +13,17 @@ Big Idea: Most of our buying customers were from North America commuting 2-5 mil
 - View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://youtu.be/QlKbsO8kktE).
 
 # Tableau
-## Airbnb Dashboard (Tableau Public, Python, Docs)
-Big Idea: Most of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. Splitting the ad budget into 60-40 can generate the most ROI. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bike.
+## Airbnb Dashboard (Tableau Public, Docs, Canva, and Video)
+Big Idea: Zipcode 98134 is the best place to start an Airbnb in Seattle. Airbnb with 2 bedrooms can sell for $175.4 per night and has a lower competition compared to single bedrooms. The best time to list list an Airbnb are during May to July and October to December.
 
-*Situation:* Clement runs an E-commerce Bike Shop. He wants to know which type of customers he should target for 2023 Q3.
-1. Clement never saw the dataset for his customers. So he wants to have a general idea about them.
-2. He also wants to know if income, gender, marital status, and commute distance plays a role in their purchasing decision.
-3. He's also considering on which region to allocate his budget.
+*Situation:* Andrew wants to identify the best place to start an Airbnb in Seattle.
+1. He wants to know the factors he should consider.
+2. He's also curious on how much he can charge.
+3. He wants to know the best time to rent his Airbnb.
 
 *Outputs:*
-- Access the [Dashboard](mini-projects/clements-bicycle-shop/dashboard.xlsx).
-- Read the [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing).
-- View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://www.youtube.com/watch?v=QlKbsO8kktE).
-
-> [!IMPORTANT]
-> The dashboard contains [Airbnb data](http://insideairbnb.com/get-the-data/) from Seattle, Washington, United States as of June 24, 2023. I'll include the link to the dataset after Kaggle verifies my account.
-
-> [!NOTE]
-> I wrote a [Python script](/projects/airbnb/gzip_converter.py) to convert ```gz``` files into ```csv``` files.
+- Access the [Dashboard](https://public.tableau.com/app/profile/jobb.rodriguez/viz/AirbnbDashboard2016_16935822119980/Dashboard1?publish=yes).
+- Read the [Written Report](https://docs.google.com/document/d/1m2f0-wNG9LJoY_nMCcYIRhvQF6bFrSBs9kWn5xxRwaE/edit?usp=sharing).
 
 # SQL
 ## Covid Data (PostgreSQL)
