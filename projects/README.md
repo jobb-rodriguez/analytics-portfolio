@@ -13,7 +13,7 @@ Big Idea: Most of our buying customers were from North America commuting 2-5 mil
 - View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://youtu.be/QlKbsO8kktE).
 
 # Tableau
-## Airbnb Dashboard (Tableau Public, Docs, Canva, and Video)
+## Airbnb Dashboard (Tableau Public and Docs)
 Big Idea: Zipcode 98134 is the best place to start an Airbnb in Seattle. Airbnb with 2 bedrooms can sell for $175.4 per night and has a lower competition compared to single bedrooms. The best time to list list an Airbnb are during May to July and October to December.
 
 *Situation:* Andrew wants to identify the best place to start an Airbnb in Seattle.
