@@ -1,5 +1,5 @@
 # Excel
-## Bike Purchased Bikes Dashboard (Excel, Docs, Canva, and Video)
+## Purchased Bikes Dashboard (Excel, Docs, Canva, and Video)
 Big Idea: Most of our buying customers were from North America commuting 2-5 miles and Europe commuting 0-1 miles. Splitting the ad budget into 60-40 can generate the most ROI. Utilize 60% targeting Middle Aged North Americans with our 2-5 miles bike. Utilize the remaining 40% targeting Middle Aged Europeans with our 0-1 miles bike.
 
 *Situation:* Clement runs an E-commerce Bike Shop. He wants to know which type of customers he should target for 2023 Q3.
