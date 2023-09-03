@@ -2,7 +2,7 @@
 # Conclusion
 Based on the thetas, the learning rate, and the optimized cost, ```Car Perform with Curb Weight vs Price``` performs the best.
 
-[Read the full report](/projects/housing-price-prediction/Report%20-%20Housing%20Price%20Prediction.pdf).
+[Read the full report](/projects/automobile-price-prediction/Report%20-%Automobile%20Price%20Prediction.pdf).
 
 # Dataset
 The Automobile dataset came from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/10/automobile). [Access the file](/projects/automobile-price-prediction/car.csv).

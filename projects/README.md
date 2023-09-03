@@ -8,7 +8,7 @@ Big Idea: Most of our buying customers were from North America commuting 2-5 mil
 3. He's also considering on which region to allocate his budget.
 
 *Outputs:*
-- Access the [Dashboard](mini-projects/clements-bicycle-shop/dashboard.xlsx).
+- Access the [Dashboard](projects/clements-bicycle-shop/dashboard.xlsx).
 - Read the [Written Report](https://docs.google.com/document/d/1Jt_MA0C9CYMIhHo5qRfUhrTnlRa0J7IlkEQw_tAt73Y/edit?usp=sharing).
 - View the [Proposed Target Customer Presentation](https://www.canva.com/design/DAFtJLKNhn4/6ZCH_dvPXDsbjx50yhDPKA/view?utm_content=DAFtJLKNhn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). [Watch me explain it](https://youtu.be/QlKbsO8kktE).
 
@@ -72,6 +72,7 @@ In this analysis, I used ```Multivariate Linear Regression``` to identify which 
 given the dataset, [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile). All sets of features. However, in terms of the optimized cost, the thetas, and the learning rate, ```Car Performance with Curb Weight vs Price``` performed best.
 
 - [Read the Report](/projects/automobile-price-prediction/Report%20-%20Automobile%20Price%20Prediction.pdf) 
+- [Access the Dataset](https://archive.ics.uci.edu/dataset/10/automobile)
 - [Access the Folder](/projects/automobile-price-prediction/) 
 
 ## Cardiovascular Disease using Multi-layer Perceptron Classifier and Logistic Regression (Pandas, Numpy, Scikit-learn)
@@ -83,4 +84,5 @@ The MPC model, without BMI, with the default configuration performed the best wi
 average test accuracy score was 1.36% higher than LR. With BMI, the MPC’s average test accuracy score was 1.33% higher than LR. The BMI does not improve the models’ performances.
 
 - [Read the Report](/projects/cardiovascular-disease-prediction/Report%20-%20Cardiovascular%20Disease%20Prediction.pdf) 
+- [Access the Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 - [Access the Folder](/projects/cardiovascular-disease-prediction/) 
