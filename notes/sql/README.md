@@ -119,10 +119,10 @@ ON table_name1.id = table_name2.id
 ```
 
 Types:
-1. Inner Join - A intersection B
-2. Left Outer Join - A ^ A intersection B
-3. Right Outer Join - B ^ A intersection B
-4. Full Outer Join - A union B
+1. Inner Join (INNER JOIN) - A intersection B
+2. Left Outer Join (LEFT JOIN) - A ^ A intersection B
+3. Right Outer Join (RIGHT JOIN) - B ^ A intersection B
+4. Full Outer Join (FULL JOIN) - A union B
 
 > [!NOTE]
 > You can access columns from both tables when using ```JOIN```.
